@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Olá! Eu sou o Luca Pinheiro<br>Atualmente cursando o 1° ano de Ciência da Computação no  Instituto Mauá de Tecnologia.
 
 
