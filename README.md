@@ -1,5 +1,5 @@
 # About Me:
-Olá! Eu sou meu nome é Luca Pinheiro Gomes<br>Atualmente cursando o 1° ano de Ciência da Computação no  Instituto Mauá de Tecnologia.
+Olá! Meu nome é Luca Pinheiro Gomes<br>Atualmente cursando o 1° ano de Ciência da Computação no  Instituto Mauá de Tecnologia.
 
 
 ## 🌐 Socials:
