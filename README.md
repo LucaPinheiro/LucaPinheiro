@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Luca Pinheiro Gomes!<br>Atualmente cursando o 4º semestre de Ciência da Computação no Instituto Mauá de Tecnologia. Atuando como estágiario no banco Santander e desenvolvedor de software bolsista no Instituto Mauá de Tecnologia!<br>
+Olá! Meu nome é Luca Pinheiro Gomes!<br>Atualmente cursando o 4º semestre de Ciência da Computação no Instituto Mauá de Tecnologia. Atuando como estagiário no banco Santander e desenvolvedor de software bolsista no Instituto Mauá de Tecnologia!<br>
 
 
 ## 🌐 Socials:
