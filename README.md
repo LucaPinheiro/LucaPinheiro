@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey! My name is Luca Pinheiro Gomes!
-Currently studying the 4th semester of Computer Science at the Mauá Institute of Technology. Working as an intern at Santander Bank and as a software developer with a scholarship at the Mauá Institute of Technology!<br>
+Currently studying the 5th semester of Computer Science at the Mauá Institute of Technology. Working as an intern at Santander Bank and as Tech Lead at ROLE Startup<br>
 
 
 ## 🌐 Socials:
