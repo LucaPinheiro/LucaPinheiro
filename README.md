@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey! My name is Luca Pinheiro Gomes!
-Currently studying the 6th semester of Computer Science at the Mauá Institute of Technology. Working as a Software Engineer | AI Engineer at @Santander Bank - F1RST and as Tech Lead at ROLE Startup<br>
+Currently studying the 6th semester of Computer Science at the Mauá Institute of Technology. Working as a Software Engineer | AI Engineer at @XP Inc. <br>
 
 
 ## 🌐 Socials:
